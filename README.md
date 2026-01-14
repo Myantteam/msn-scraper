@@ -42,7 +42,7 @@ A powerful Python tool to scrape and download posts from any MSN channel with li
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/msn-scraper.git
+git clone https://github.com/mohdtalal3/msn-scraper.git
 cd msn-scraper
 ```
 
@@ -290,33 +290,6 @@ Contributions are welcome! Here's how you can help:
 - [ ] Implement multi-threading for faster scraping
 - [ ] Add sentiment analysis features
 
-## 📝 License
-
-This project is licensed under the MIT License - see below for details:
-
-```
-MIT License
-
-Copyright (c) 2026 MSN Scraper
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
 
 ## ⚠️ Disclaimer
 
@@ -332,10 +305,6 @@ This tool is for educational and research purposes only. Please:
 
 `msn scraper` `web scraping` `data extraction` `python scraper` `msn news` `content scraper` `article scraper` `news scraper` `social media scraper` `engagement metrics` `data mining` `web crawler` `msn api` `msn data` `incremental scraping` `csv export` `json export` `content analysis` `news aggregator` `python automation`
 
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/msn-scraper/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/msn-scraper/discussions)
 
 ## 🎓 Learn More
 
